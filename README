@@ -1,0 +1,14 @@
+Setup instructions:	
+	
+	The Front End is a react app located in /dis-menu-scrapper and should be started with NPM start.
+	
+	The backend is a local Python/Flask server. There is a virtual enviorment congifured with all the needed modulus.
+	
+	Instructions for setting up flask can be found here: http://flask.pocoo.org/docs/1.0/installation/#virtual-environments
+	
+	From /menu-grabber in terminal use:
+	
+	$ export FLASK_APP=diningScrapper.py
+	$ flask run
+	
+	This will start the server and allow for the react app buttons and sliders to function.
