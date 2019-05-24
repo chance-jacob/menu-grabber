@@ -1,0 +1,8 @@
+.header-area {
+  border-style: solid;
+  border-color: dimgray;
+  border-width: 1px;
+  background-color: #c3cbd8;
+  border-radius: 5px;
+  padding: 5px;
+}
