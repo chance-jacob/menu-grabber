@@ -8,6 +8,8 @@ Setup instructions:
 	
 	From /menu-grabber in terminal use:
 	
+	$ . venv/bin/activate
+	
 	$ export FLASK_APP=diningScrapper.py
 	$ flask run
 	
